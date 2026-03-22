@@ -13,7 +13,7 @@
 
 ##  Contatos
 <ul>
- <li>Email: rochamaralnicolly@gmail.com</li>
+ <li>Email: rochaaamaralnicolly@gmail.com</li>
 </ul>
 
 
