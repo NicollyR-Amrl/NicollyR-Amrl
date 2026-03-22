@@ -11,7 +11,7 @@
   <li>Realizei a criação de um wireframe do EcoVision</li>
 </ul>
 
-## 🐇 Contatos
+##  Contatos
 <ul>
  <li>Email: rochamaralnicolly@gmail.com</li>
 </ul>
